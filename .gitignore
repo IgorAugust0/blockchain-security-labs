@@ -163,6 +163,7 @@ cython_debug/
 *.wav
 /p1
 /lab/blockchain-explorer/outros
+/lab/blockchain-explorer/pt2/rawaddr
 
 # VS Code files for those working on multiple tools
 */.vscode/*

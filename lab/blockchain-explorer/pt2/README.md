@@ -21,25 +21,31 @@ This is the part two of the Blockchain Explorer project, which serve as comprehe
    cd lab/blockchain-explorer/pt2
    ```
 
-2. **Install Dependencies**:
+2. **Extract the compressed cluster**:
+
+   ```bash
+   tar -xzf rawaddr.tgz
+   ```
+   > This will create a 'rawaddr' directory needed for analysis
+
+3. **Install Dependencies**:
 
    ```bash
    pip install -r requirements.txt
    ```
 
-3. **Run the Script**:
+4. **Run the Script**:
 
    ```bash
    python blockchain_explorer2.py
    ```
-
    or
 
    ```bash
    python paste.txt
    ```
 
-   This will analyze a specific Bitcoin address and display the results in the console.
+   > This will analyze a specific Bitcoin address and display the results in the console.
 
 ## Usage
 

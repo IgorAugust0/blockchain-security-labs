@@ -1,6 +1,6 @@
 # Special Topics in Information Security
 
-Collection of practical labs exploring various aspects of information security, blockchain technology, and cryptography.
+Collection of practical labs exploring various aspects of information security, blockchain technology, and cryptography, developed during the elective course "Tópicos Especiais de Segurança da Informação" at the Federal University of Uberlândia (UFU).
 
 ## Labs Overview
 
