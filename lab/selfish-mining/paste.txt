@@ -1,0 +1,30 @@
+from selfmin import (
+    load_data,
+    split_into_months,
+    plot_data,
+    get_most_powerful_miner,
+    count_sequences,
+    generate_permutations,
+    calc_pvalue,
+    print_conclusion,
+    BLOCK,
+    SIGNIFICANCE_LEVEL
+)
+
+if __name__ == "__main__":
+    # Load and process the data
+    data_array = load_data(BLOCK)
+    monthly_data = split_into_months(data_array)
+    november = monthly_data[10]  # 0-indexed
+
+    # Visualize the data
+    plot_data(november)
+
+    # Analyze for selfish mining
+    mp = get_most_powerful_miner(november)
+    sequences = count_sequences(november, mp)
+    perm_sequences = generate_permutations(november, mp)
+    pvalue = calc_pvalue(sequences, perm_sequences)
+
+    # Print results
+    print_conclusion(pvalue, SIGNIFICANCE_LEVEL)

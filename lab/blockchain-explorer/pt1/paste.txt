@@ -1,0 +1,5 @@
+import asyncio
+from blockchain_explorer1 import explore_latest_block
+
+if __name__ == "__main__":
+    asyncio.run(explore_latest_block())

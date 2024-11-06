@@ -1,0 +1,55 @@
+================================= Block Summary =================================
+
+Height: 860338
+Hash: 000000000000000000008f2c9b1f9dfd6184adad15449d73447e2db5ff9a7eba
+Coinbase Transaction Hash: 8febb8287f693bd4eebebf04c7a2fc7b8de8544434bdde78bd008f87498f0c26
+Addresses for Mined Bitcoins + Fees: ['bc1p8k4v4xuz55dv49svzjg43qjxq2whur7ync9tm0xgl5t4wjl9ca9snxgmlt', 'bc1qxhmdufsvnuaaaer4ynz88fspdsxq2h9e9cetdj']
+Total number of Transactions: 5972
+
+============================== Transaction Details ==============================
+
+Transaction Hash: 8febb8287f693bd4eebebf04c7a2fc7b8de8544434bdde78bd008f87498f0c26
+  Fee: 0 satoshis
+  Inputs: 1, Outputs: 3
+----------------------------------------------------------------------------------
+Transaction Hash: 1c3d2b4cd0c1d481177433c76e25ca42190bd0f6ddd2664dc5d761dfaf1fe44a
+  Fee: 61050 satoshis
+  Inputs: 1, Outputs: 1
+----------------------------------------------------------------------------------
+Transaction Hash: b2e97b8f57bf157015657a19b077faf7a47d8c75b4baf717b2e4c9af5ab8491c
+  Fee: 9900 satoshis
+  Inputs: 1, Outputs: 1
+----------------------------------------------------------------------------------
+Transaction Hash: 5097899e32cc33e8882aeaaaf6ce3314421460a66278d599f52608d03e80f515
+  Fee: 11340 satoshis
+  Inputs: 1, Outputs: 2
+----------------------------------------------------------------------------------
+Transaction Hash: 0816d831fabef108d853ba3504987cf7de3837b7005932c99b498483af086853
+  Fee: 7250 satoshis
+  Inputs: 1, Outputs: 2
+----------------------------------------------------------------------------------
+Transaction Hash: 335adc09ae9687690a8cae16502b30a3c14815e6ffc869e495d6cc23e1787989
+  Fee: 7050 satoshis
+  Inputs: 1, Outputs: 2
+----------------------------------------------------------------------------------
+Transaction Hash: 831ccce6fcb5306b05f258701ce210538153ed7acfa9eb51880221fa5c558b8a
+  Fee: 15581 satoshis
+  Inputs: 1, Outputs: 4
+----------------------------------------------------------------------------------
+Transaction Hash: 63429a5a848f7bc0c7a9ac647cbeaae796ad84b40d5f50ff623db0332e67de5b
+  Fee: 5680 satoshis
+  Inputs: 1, Outputs: 2
+----------------------------------------------------------------------------------
+Transaction Hash: 590602d5a69ba6b264c4bc2a3bc24665895698bbfe10efc9eea073cdc88f3b98
+  Fee: 5640 satoshis
+  Inputs: 1, Outputs: 2
+----------------------------------------------------------------------------------
+Transaction Hash: e22889204540686426cc08ff15b7f8c29620081359dbc452ba8790809174ce9c
+  Fee: 5680 satoshis
+  Inputs: 1, Outputs: 2
+----------------------------------------------------------------------------------
+Transaction Hash: c547d4b7cd2a67e3a154b03613f8fab08d7b12f250948dc1cc550a91543e564c
+  Fee: 9226 satoshis
+  Inputs: 1, Outputs: 4
+----------------------------------------------------------------------------------
+

@@ -1,0 +1,16 @@
+from blockchain_explorer2 import BitcoinClusterAnalyzer, plot_results
+import json
+
+if __name__ == "__main__":
+    # Initialize the BitcoinClusterAnalyzer with the path to address data.
+    analyzer = BitcoinClusterAnalyzer('rawaddr')
+    
+    # Analyze the Bitcoin address cluster starting from a specific address.
+    results = analyzer.analyze("1JHH1pmHujcVa1aXjRrA13BJ13iCfgfBqj")
+    
+    # Print detailed results of the analysis.
+    print("\nDetailed Results:")
+    print(json.dumps(results, indent=2))
+    
+    # Plot the results including historical balance, Gini coefficient, and Benford's Law.
+    plot_results(results)
