@@ -1,2 +1,15 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Correctly identify languages
+*.ipynb linguist-documentation
+*.sol linguist-language=Solidity
+*.py linguist-language=Python
+*.js linguist-language=JavaScript
+
+# Exclude notebooks from language statistics
+*.ipynb linguist-generated=true
+
+# Handle documentation
+docs/* linguist-documentation
+*.md linguist-documentation
