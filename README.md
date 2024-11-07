@@ -6,8 +6,8 @@ Collection of practical labs exploring various aspects of information security, 
 
 | Name | Description | Documentation | Main Script |
 |----------|-------------|---------------|-------------|
-| [Blockchain Explorer - Part 1](lab/blockchain-explorer/pt1/) | Script that fetches and displays Bitcoin blockchain information in real-time using Blockchain.info API | [README](lab/blockchain-explorer/pt1/README.md) | [paste.txt](lab/blockchain-explorer/pt1/paste.txt) |
-| [Blockchain Explorer - Part 2](lab/blockchain-explorer/pt2/) | Enhanced version that analyzes Bitcoin transactions by identifying address clusters and evaluating financial metrics | [README](lab/blockchain-explorer/pt2/README.md) | [paste.txt](lab/blockchain-explorer/pt2/paste.txt) |
+| [Blockchain Explorer - Part 1](lab/blockchain-explorer/pt1/) | Script that fetches and displays Bitcoin blockchain information in real-time using Blockchain.info API | [README](lab/blockchain-explorer/pt1/README.md) | [blockchain_explorer1.py](lab/blockchain-explorer/pt1/blockchain_explorer1.py) |
+| [Blockchain Explorer - Part 2](lab/blockchain-explorer/pt2/) | Enhanced version that analyzes Bitcoin transactions by identifying address clusters and evaluating financial metrics | [README](lab/blockchain-explorer/pt2/README.md) | [blockchain_explorer2.py](lab/blockchain-explorer/pt2/blockchain_explorer2.py) |
 | [Blockchain TXT](lab/blockchain-txt/) | Basic Python script demonstrating Proof of Work mining in blockchain technology | [README](lab/blockchain-txt/README.md) | [blockchaintxt.py](lab/blockchain-txt/blockchaintxt.py) |
 | [Bug Hunting](lab/bug-hunting/) | Analysis and fixes for security vulnerabilities in the TokenAuction smart contract | [README](lab/bug-hunting/README.md) | N/A |
 | [LUPA](lab/lupa/) | Implementation of a Lowest-Unmatched Price Auction smart contract using commit-reveal scheme | [README](lab/lupa/README.md) | [LUPA.sol](lab/lupa/LUPA.sol) |
